@@ -1,0 +1,3 @@
+Hello,
+
+This is a file to see how to init with git.
