@@ -1,3 +1,4 @@
 Hello,
 
 This is a file to see how to init with git.
+Did a little change on github to see how pull works in the terminal.
